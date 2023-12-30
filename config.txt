@@ -1,0 +1,3 @@
+deploy_password=
+mysql_root_password=
+db_pass=48f8ujdR3s8FWe2Gik3kyn6id6r4sefuiob=
