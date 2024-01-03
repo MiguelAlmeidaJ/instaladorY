@@ -30,3 +30,8 @@ Email válido para certificação SSL
 
     WhatsApp: (00) 90000-0000
 
+## Deu trabalho faz o pix:
+
+<div align="center">
+    <img src="./public/images/qrcode.jpeg" style="width: 50% !important;">
+</div>

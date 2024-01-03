@@ -1,5 +1,5 @@
 #######################################
-# installed node packages
+# Instalando dependências
 # Arguments:
 #   None
 #######################################
@@ -18,7 +18,7 @@ EOF
   sleep 2
 }
 #######################################
-# compiles frontend code
+# Compilando o código
 # Arguments:
 #   None
 #######################################
@@ -37,7 +37,7 @@ EOF
   sleep 2
 }
 #######################################
-# updates frontend code
+# Atualizando Código
 # Arguments:
 #   None
 #######################################
@@ -64,7 +64,7 @@ EOF
 }
 
 #######################################
-# sets frontend environment variables
+# Configurando variáveis de ambiente
 # Arguments:
 #   None
 #######################################
@@ -108,7 +108,7 @@ EOF
 }
 
 #######################################
-# starts pm2 for frontend
+# Iniciando pm2
 # Arguments:
 #   None
 #######################################
@@ -135,7 +135,7 @@ EOF
 }
 
 #######################################
-# sets up nginx for frontend
+# Configurando o nginx
 # Arguments:
 #   None
 #######################################

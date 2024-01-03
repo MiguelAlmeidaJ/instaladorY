@@ -1,6 +1,5 @@
 #!/bin/bash
 #
-# Funções  para configurar o back-end do app
 ###########################################
 # Criar banco Redis e Mariadb usando o Docker
 # Arguments:
