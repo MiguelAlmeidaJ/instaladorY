@@ -28,4 +28,4 @@ Email válido para certificação SSL
 
 ## Consultoria e contato:
 
-    WhatsApp: (32) 9 8873-7253
+WhatsApp: (32) 9 8873-7253
