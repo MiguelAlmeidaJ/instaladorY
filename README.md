@@ -28,10 +28,4 @@ Email válido para certificação SSL
 
 ## Consultoria e contato:
 
-    WhatsApp: (00) 90000-0000
-
-## Deu trabalho faz o pix:
-
-<div align="center">
-    <img src="./public/images/qrcode.jpeg" style="width: 50% !important;">
-</div>
+    WhatsApp: (32) 9 8873-7253
